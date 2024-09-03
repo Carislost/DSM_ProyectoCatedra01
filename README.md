@@ -41,7 +41,7 @@ cd clear-note
 - Conecta un dispositivo Android o usa un emulador.
 - Compila y ejecuta la aplicación desde Android Studio.
 
-## Autores
+## Autores DSM441 G01T
 Jonathan Alejandro Mendoza Olano - MO223025<br>
 Jorge Nahum Mira Flores - MF232232<br>
 Carlos Francisco Villalobos Romero - VR230136<br>
