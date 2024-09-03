@@ -1,5 +1,5 @@
-Clear Note
-Versión: 1.0.0
+# Clear Note
+# Versión: 1.0.0
 
 Descripción y Contexto
 Clear Note es una aplicación móvil desarrollada para ayudar a los usuarios a organizar sus tareas, recordatorios y notas personales en un solo lugar. La aplicación permite crear, editar y gestionar diferentes tipos de notas, como listas y notas de texto simples, todo en una plataforma centralizada y accesible desde cualquier dispositivo.
