@@ -50,6 +50,10 @@ Sebastian Donovan Torres Gutierrez - TG230977<br>
 ## Versión
 Versión 1.0.0 - Incluye las funcionalidades básicas de registro, inicio de sesión y gestión de notas.
 
+## Trello:
+
+https://trello.com/b/dLxbbuIy/dsm-board
+
 ## Mockups:
 
 https://www.figma.com/design/EIwrZbNmptKTO9XIkjB3rQ/Proyecto-de-C%C3%A1tedra---Fase-1?node-id=0-1&t=oN5s70kGze8FjbWJ-1
