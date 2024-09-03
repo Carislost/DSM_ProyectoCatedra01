@@ -70,3 +70,7 @@ Versión 1.0.0 - Incluye las funcionalidades básicas de registro, inicio de ses
 Reconocimientos
 Universidad Don Bosco por el apoyo y la infraestructura para el desarrollo del proyecto.
 Firebase por proporcionar la infraestructura de backend.
+
+Mockups:
+
+https://www.figma.com/design/EIwrZbNmptKTO9XIkjB3rQ/Proyecto-de-C%C3%A1tedra---Fase-1?node-id=0-1&t=oN5s70kGze8FjbWJ-1
