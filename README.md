@@ -53,3 +53,6 @@ Versión 1.0.0 - Incluye las funcionalidades básicas de registro, inicio de ses
 ## Mockups:
 
 https://www.figma.com/design/EIwrZbNmptKTO9XIkjB3rQ/Proyecto-de-C%C3%A1tedra---Fase-1?node-id=0-1&t=oN5s70kGze8FjbWJ-1
+
+## Creative Commons License:
+La licencia CC BY-NC-SA 4.0 es ideal para la documentación de "Clear Note" porque asegura que otros puedan utilizar, modificar y compartir el contenido, siempre que den crédito a los autores originales, no lo usen con fines comerciales, y mantengan las mismas condiciones de licencia en cualquier obra derivada. Esto protege tu trabajo de ser explotado comercialmente y fomenta la colaboración bajo términos justos y abiertos.
